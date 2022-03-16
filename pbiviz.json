@@ -1,0 +1,25 @@
+{
+    "visual": {
+        "name": "reactCustomVisual",
+        "displayName": "ReactCustomVisual",
+        "guid": "reactCustomVisual9C1E071919454A9AB1631D693A4BA06E",
+        "visualClassName": "Visual",
+        "version": "1.0.0",
+        "description": "Displays a formatted measure value inside a circle",
+        "supportUrl": "https://community.powerbi.com",
+        "gitHubUrl": "https://github.com/microsoft/PowerBI-visuals-circlecard"
+    },
+    "apiVersion": "3.8.0",
+    "author": {
+        "name": "Your Name",
+        "email": "your@email.address"
+    },
+    "assets": {
+        "icon": "assets/icon.png"
+    },
+    "externalJS": null,
+    "style": "style/visual.less",
+    "capabilities": "capabilities.json",
+    "dependencies": null,
+    "stringResources": []
+}
